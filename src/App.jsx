@@ -1,9 +1,9 @@
 import React from "react";
-import Counter from "./Component/Counter";
+import Todo from "./Component/Todo";
 const App = () => {
   return (
     <div>
-      <Counter />
+      <Todo />
     </div>
   );
 };
